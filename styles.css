@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+p {
+  font-size: 3rem;
+  color: #522B47;
+  font-family: Tektur, cursive;
+}
+
+img {
+  width: 80%;
+}
+
+body {
+  background-color: #9D79BC;
+}
+
+h1 {
+  margin: 30px;
+  font-family: Baskerville, serif;
+  text-shadow: 1px 1px black;
+  font-size: 8rem;
+  color: #FBF5F3;
+  display: flex;
+  justify-content: center;
+}
